@@ -111,7 +111,7 @@ a {
   height: 455px;
   color: #fff;
   overflow: hidden;
-  background: url('bh.webp') center/cover no-repeat;
+  background: url('bh.png') center/cover no-repeat;
 }
 
 .hero-overlay {
@@ -535,4 +535,5 @@ a {
   transform: translateY(0);
   transition: all 0.8s ease;
 }
+
 
