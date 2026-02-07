@@ -265,7 +265,7 @@ a {
 /* VIDEO INSIGHTS */
 .insight-video {
   width: 100%;
-  height: 350px;
+  height: 400px;
   object-fit: cover;
   border-radius: 18px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
@@ -277,6 +277,10 @@ a {
   filter: brightness(90%);
 }
 
+.insights .insight-grid {
+  gap: 10rem; /* existing spacing */
+  margin-top: 2rem; /* space above videos */
+}
 /* STATS */
 .stats {
   background: #bbdefb;
@@ -550,6 +554,7 @@ a {
   transform: translateY(0);
   transition: all 0.8s ease;
 }
+
 
 
 
