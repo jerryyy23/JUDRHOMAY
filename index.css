@@ -265,7 +265,7 @@ a {
 /* VIDEO INSIGHTS */
 .insight-video {
   width: 100%;
-  height: 520px;
+  height: 450px;
   object-fit: cover;
   border-radius: 18px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.2);
@@ -550,6 +550,7 @@ a {
   transform: translateY(0);
   transition: all 0.8s ease;
 }
+
 
 
 
